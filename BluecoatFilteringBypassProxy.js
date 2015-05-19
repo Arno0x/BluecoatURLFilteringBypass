@@ -1,5 +1,5 @@
 /**
- * HttpProxy - for NodeJS
+ * BluecoatFilteringBypassProxy - for NodeJS
  *
  * @author Arno0x0x - https://twitter.com/Arno0x0x
  * @license GPLv3 - licence available here: http://www.gnu.org/copyleft/gpl.html
